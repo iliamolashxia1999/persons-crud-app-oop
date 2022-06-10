@@ -64,8 +64,8 @@ include 'crud.php';
   </div>
   <div class="form-check">
   <label  for="" id="completegender">  </label>
-  <input  type="radio" name="gender"  value="m">male
-  <input  type="radio" name="gender" value="f"> female
+  <input  type="radio" name="gender"  value="1">male
+  <input  type="radio" name="gender" value="2"> female
   </label>
  </div>
    </div>
@@ -109,8 +109,8 @@ include 'crud.php';
   </div>
   <div class="form-check">
   <label  for="" id="updategender">  </label>
-  <input  type="radio" name="updategender" id="gendermale" value="m" >male
-  <input  type="radio" name="updategender" id="genderfemale" value="f" >female
+  <input  type="radio" name="updategender" id="gendermale" value="1" >male
+  <input  type="radio" name="updategender" id="genderfemale" value="2" >female
   </label>
  </div>
    </div>
